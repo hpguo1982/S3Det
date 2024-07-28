@@ -16,3 +16,8 @@ S3Det is a novel strip steel surface defect detector.
   mmengine: 0.9.0
   
 during the operation, if any package is missing, install that package.
+
+# Datasets
+1.[NEU-DET](https://drive.google.com/open?id=1qrdZlaDi272eA79b0uCwwqPrm2Q_WI3k). 
+
+2.DAGM
