@@ -1,10 +1,9 @@
 # S3Det:Strip Steel Surface Defect Detector via Enhanced Deformable Convolution and Dual Cross-Layer Pyramid
 S3Det is a novel strip steel surface defect detector.
 
-# Installation
-  conda create --name s3det python=3.9 -y
-  
-  conda activate s3det
+# Our experimental environment
+
+  python: 3.9
   
   torch: 1.13.1+cu117
   
