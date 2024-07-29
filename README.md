@@ -2,9 +2,11 @@
 
 S3Det is a novel strip steel surface defect detector.
 
-## Overall Architecture of Our S3Det
+## S3Det
 
 ![](./S3Det/overall.png)
+
+*Fig. 1. Overview architecture of our S3Det .*
 
 ## Experimental Environment
 
